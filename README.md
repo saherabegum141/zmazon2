@@ -1,0 +1,4 @@
+palav
+dose
+vada
+paddu
